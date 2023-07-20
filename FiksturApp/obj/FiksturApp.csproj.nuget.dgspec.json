@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Omer\\source\\repos\\FiksturApp\\FiksturApp\\FiksturApp.csproj": {}
+    "C:\\Users\\ceren\\FiksturConsoleApp\\FiksturApp\\FiksturApp.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Omer\\source\\repos\\FiksturApp\\FiksturApp\\FiksturApp.csproj": {
+    "C:\\Users\\ceren\\FiksturConsoleApp\\FiksturApp\\FiksturApp.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Omer\\source\\repos\\FiksturApp\\FiksturApp\\FiksturApp.csproj",
+        "projectUniqueName": "C:\\Users\\ceren\\FiksturConsoleApp\\FiksturApp\\FiksturApp.csproj",
         "projectName": "FiksturApp",
-        "projectPath": "C:\\Users\\Omer\\source\\repos\\FiksturApp\\FiksturApp\\FiksturApp.csproj",
-        "packagesPath": "C:\\Users\\Omer\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Omer\\source\\repos\\FiksturApp\\FiksturApp\\obj\\",
+        "projectPath": "C:\\Users\\ceren\\FiksturConsoleApp\\FiksturApp\\FiksturApp.csproj",
+        "packagesPath": "C:\\Users\\ceren\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\ceren\\FiksturConsoleApp\\FiksturApp\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\Omer\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\ceren\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -65,7 +65,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.302\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.304\\RuntimeIdentifierGraph.json"
         }
       }
     }
